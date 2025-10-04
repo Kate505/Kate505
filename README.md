@@ -39,12 +39,14 @@
   </a>
 </p>
 
-
-
-<a href="https://github.com/Kate505/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kate505&theme=algolia&hide_border=true&show_icons=true&border_radius=15" />
-</a>
-<a href="https://github.com/Kate505/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kate505&layout=compact&langs_count=10&theme=algolia&card_width=320&hide_border=true&border_radius=15" />
-</a>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <a href="https://github.com/Kate505/github-readme-stats">
+    <img height=200 align="center"
+         src="https://github-readme-stats.vercel.app/api?username=Kate505&theme=algolia&hide_border=true&show_icons=true&border_radius=15"/>
+  </a>
+  <a href="https://github.com/Kate505/convoychat">
+    <img height=200 align="center"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Kate505&layout=compact&langs_count=10&theme=algolia&card_width=350&hide_border=true&border_radius=15"/>
+  </a>
+</div>
 
