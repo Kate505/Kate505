@@ -1,8 +1,10 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello there 👋, I'm Katherine</h1></summary>
+  </ul>
+</div>
 
-## Hello there 👋, I'm Katherine
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🔭 Software Developer
@@ -30,9 +32,9 @@
 
   <a href="https://git.io/streak-stats" style="text-decoration:none;">
     <img 
-      src="https://streak-stats.demolab.com?user=Kate505&theme=navy-gear&hide_border=true&border_radius=15&mode=weekly&card_width=420&card_height=200" 
+      src="https://streak-stats.demolab.com?user=Kate505&theme=navy-gear&hide_border=true&border_radius=15&mode=weekly" 
       alt="GitHub Streak" 
-      style="border:none; box-shadow:none; width: 100%; max-width: 420px;"
+      style="border:none; box-shadow:none;"
     />
   </a>
 
@@ -40,7 +42,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Kate505&theme=algolia&hide_border=true&show_icons=true&border_radius=15" 
       alt="GitHub Stats" 
-      style="border:none; box-shadow:none; width: 100%; max-width: 420px;"
+      style="border:none; box-shadow:none;"
     />
   </a>
 
@@ -53,7 +55,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Kate505&layout=compact&theme=algolia&langs_count=10&hide_border=true&card_width=850&border_radius=15" 
       alt="Top Languages" 
-      style="border:none; box-shadow:none; width: 100%; max-width: 850px;"
+      style="border:none; box-shadow:none; width: 100%;"
     />
   </a>
 </div>
