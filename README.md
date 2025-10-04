@@ -14,35 +14,34 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=20" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,androidstudio,arduino,astro,bash,bootstrap,css,dotnet,express,git,html,java,js,jquery,materialui,matlab,mysql,nextjs,nodejs,postgres,ruby,rails,react,sqlite,tailwind,ts,vite" />
   </a>
 </p>
 
 <br><br>
 
 <!-- Stats & Trophy Section -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
   <a href="https://git.io/streak-stats" style="text-decoration:none;">
     <img 
       src="https://streak-stats.demolab.com?user=Kate505&theme=navy-gear&hide_border=true&border_radius=15&mode=weekly" 
-      alt="GitHub Streak" 
-      style="border:none; box-shadow:none;"
+      alt="GitHub Streak"
     />
   </a>
 
   <a href="https://github.com/Kate505/github-readme-stats" style="text-decoration:none;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Kate505&theme=algolia&hide_border=true&show_icons=true&border_radius=15" 
-      alt="GitHub Stats" 
-      style="border:none; box-shadow:none;"
+      alt="GitHub Stats"
     />
   </a>
 
