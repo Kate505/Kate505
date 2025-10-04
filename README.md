@@ -29,23 +29,26 @@
 <br><br>
 
 <!-- Stats & Trophy Section -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-
-  <a href="https://git.io/streak-stats" style="text-decoration:none;">
-    <img 
-      src="https://streak-stats.demolab.com?user=Kate505&theme=navy-gear&hide_border=true&border_radius=15&mode=weekly" 
-      alt="GitHub Streak"
-    />
-  </a>
-
-  <a href="https://github.com/Kate505/github-readme-stats" style="text-decoration:none;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Kate505&theme=algolia&hide_border=true&show_icons=true&border_radius=15" 
-      alt="GitHub Stats"
-    />
-  </a>
-
-</div>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://streak-stats.demolab.com?user=Kate505&theme=navy-gear&hide_border=true&border_radius=10&mode=weekly&card_width=420&card_height=200" 
+          alt="GitHub Streak" 
+        />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/Kate505/github-readme-stats">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Kate505&theme=blue_navy&hide_border=true&show_icons=true&border_radius=10" 
+          alt="GitHub Stats" 
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
